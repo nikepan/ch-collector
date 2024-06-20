@@ -1,4 +1,4 @@
-module ch-collector
+module github.com/nikepan/ch-collector
 
 go 1.22
 
